@@ -1,0 +1,158 @@
+record_id,brand,business_name,business_name_ascii,rating,reviews,place_id,latitude,longitude,source_file,wkt,valid_monterrey_bbox,coord_issue
+1,Dunkin,Dunkin' Garza Sada (Contry),Dunkin' Garza Sada (Contry),3.9,269,ChIJsVa0fwC_YoYRxtddMZCNUps,25.6389316,-100.2860475,dunkindonouts_mty_data_location.csv,POINT (-100.2860475 25.6389316),True,
+2,Dunkin,Dunkin' Valle Oriente,Dunkin' Valle Oriente,4.5,19,ChIJd1ZoDQC_YoYRL2t3tOLrIsI,25.6380981,-100.3142795,dunkindonouts_mty_data_location.csv,POINT (-100.3142795 25.6380981),True,
+3,Dunkin,Dunkin' Citadel,Dunkin' Citadel,3.8,32,ChIJgavhewDrYoYRPbEhXdmghtA,25.7262201,-100.2150351,dunkindonouts_mty_data_location.csv,POINT (-100.2150351 25.7262201),True,
+4,Dunkin,Dunkin' Park Point,Dunkin' Park Point,4.1,45,ChIJGRncXwCXYoYR_lt8X1T-ESk,25.7384954,-100.4050529,dunkindonouts_mty_data_location.csv,POINT (-100.4050529 25.7384954),True,
+5,Dunkin,Dunkin' Paseo Almenares,Dunkin' Paseo Almenares,3.5,17,ChIJF8etVQCVYoYRX3WF84y9VCk,25.7684379,-100.2775145,dunkindonouts_mty_data_location.csv,POINT (-100.2775145 25.7684379),True,
+6,Dunkin,Rolling Donuts San Nicolás,Rolling Donuts San Nicolas,4.1,29,ChIJPTS7BY6VYoYR6MTr8f8-sVw,25.7535363,-100.2907802,dunkindonouts_mty_data_location.csv,POINT (-100.2907802 25.7535363),True,
+7,Dunkin,Dunkin',Dunkin',4.5,31,ChIJFxHZKQDHYoYRH5xaDqt-Q0U,25.5214849,-100.2034432,dunkindonouts_mty_data_location.csv,POINT (-100.2034432 25.5214849),True,
+8,Dunkin,Dunkin',Dunkin',3.3,156,ChIJz2YK5yb_0YURq0xpbSaQIkI,19.360017,-99.1684915,dunkindonouts_mty_data_location.csv,POINT (-99.1684915 19.360017),False,Fuera de bbox AMM
+9,Dunkin,Dunkin',Dunkin',2.9,56,ChIJKbcLVQAjQYYRmW3DZCRTGgY,29.7163705,-95.8467667,dunkindonouts_mty_data_location.csv,POINT (-95.8467667 29.7163705),False,Fuera de bbox AMM
+10,Dunkin,Dunkin' Donuts,Dunkin' Donuts,4.3,2302,ChIJ4Z6KzKx2Vo8RRukGz7-28d0,20.9980332,-89.6193248,dunkindonouts_mty_data_location.csv,POINT (-89.6193248 20.9980332),False,Fuera de bbox AMM
+11,Dunkin,Dunkin',Dunkin',3.9,1640,ChIJ95PalEJg7ogRG4aApemDRa4,30.7544242,-83.2730108,dunkindonouts_mty_data_location.csv,POINT (-83.2730108 30.7544242),False,Fuera de bbox AMM
+12,Dunkin,Dunkin',Dunkin',4.0,668,ChIJ1dKplRME9YgRHnLS--agg64,33.7733274,-84.3714224,dunkindonouts_mty_data_location.csv,POINT (-84.3714224 33.7733274),False,Fuera de bbox AMM
+13,Dunkin,Dunkin donuts,Dunkin donuts,3.3,7,ChIJM1fUDgBTOYYRqfi3GdbWnTk,30.131016,-93.8819326,dunkindonouts_mty_data_location.csv,POINT (-93.8819326 30.131016),False,Fuera de bbox AMM
+14,Dunkin,Dunkin',Dunkin',4.0,1068,ChIJGcGmwJFx54gRQVMdaukbuq4,28.66429,-81.369068,dunkindonouts_mty_data_location.csv,POINT (-81.369068 28.66429),False,Fuera de bbox AMM
+15,Dunkin,Dunkin Donuts Baskin-Robbins,Dunkin Donuts Baskin-Robbins,4.0,180,ChIJG4CDd21BzoARxP1dPouqfUI,35.094783,-114.5974946,dunkindonouts_mty_data_location.csv,POINT (-114.5974946 35.094783),False,Fuera de bbox AMM
+16,Dunkin,Dunkin',Dunkin',4.1,442,ChIJb1JhE8sOYYgRjKb4VyRJ4os,35.2329354,-85.8258131,dunkindonouts_mty_data_location.csv,POINT (-85.8258131 35.2329354),False,Fuera de bbox AMM
+17,Dunkin,Dunkin',Dunkin',3.9,556,ChIJecEi8dvc9YgRyFTzQnRzeLY,33.9456734,-83.7500183,dunkindonouts_mty_data_location.csv,POINT (-83.7500183 33.9456734),False,Fuera de bbox AMM
+18,Dunkin,Dunkin',Dunkin',3.9,79,ChIJUSyZ4t9r3YgRx6qNa7m1pms,28.0602754,-81.8155929,dunkindonouts_mty_data_location.csv,POINT (-81.8155929 28.0602754),False,Fuera de bbox AMM
+19,Dunkin,Dunkin',Dunkin',3.6,215,ChIJ2wHriqlr9YgRplF4W1vNFGU,34.0848152,-84.5557294,dunkindonouts_mty_data_location.csv,POINT (-84.5557294 34.0848152),False,Fuera de bbox AMM
+20,Dunkin,Dunkin',Dunkin',3.3,711,ChIJiT-ksJiSrIkReBMqR3A--oM,35.7210291,-78.8444416,dunkindonouts_mty_data_location.csv,POINT (-78.8444416 35.7210291),False,Fuera de bbox AMM
+21,Dunkin,Dunkin',Dunkin',3.8,411,ChIJYQb12xb3NIgR0ReCvd6Y42c,40.3936733,-80.0354335,dunkindonouts_mty_data_location.csv,POINT (-80.0354335 40.3936733),False,Fuera de bbox AMM
+22,Dunkin,Dunkin',Dunkin',3.1,249,ChIJ-_kePnMnQYYRIcDQlc9kBfE,29.8297012,-95.7632128,dunkindonouts_mty_data_location.csv,POINT (-95.7632128 29.8297012),False,Fuera de bbox AMM
+23,Dunkin,Dunkin',Dunkin',4.1,1129,ChIJ-b1f-d9ctokRvdz567RICI4,38.794711,-77.5160857,dunkindonouts_mty_data_location.csv,POINT (-77.5160857 38.794711),False,Fuera de bbox AMM
+24,Dunkin,Dunkin' Donut,Dunkin' Donut,3.6,1099,ChIJkWCrueQgTIYRamDQw3oojFI,32.9322619,-96.8040298,dunkindonouts_mty_data_location.csv,POINT (-96.8040298 32.9322619),False,Fuera de bbox AMM
+25,Dunkin,Dunkin',Dunkin',3.5,682,ChIJmwWPys3hyIkRz-wST5lH2Js,40.2004106,-77.1800509,dunkindonouts_mty_data_location.csv,POINT (-77.1800509 40.2004106),False,Fuera de bbox AMM
+26,Dunkin,Dunkin',Dunkin',3.6,407,ChIJOfb-PUm9yYkRs46psVuksDs,39.7428673,-77.5494133,dunkindonouts_mty_data_location.csv,POINT (-77.5494133 39.7428673),False,Fuera de bbox AMM
+27,Dunkin,Dunkin',Dunkin',3.6,665,ChIJV1S4Y_kwDogR6oMHKNzRIIE,41.7754685,-87.7418257,dunkindonouts_mty_data_location.csv,POINT (-87.7418257 41.7754685),False,Fuera de bbox AMM
+28,Dunkin,Dunkin',Dunkin',3.7,570,ChIJxcfEwwFNO4gR8Cz4j2tzHW0,42.3242302,-83.3797063,dunkindonouts_mty_data_location.csv,POINT (-83.3797063 42.3242302),False,Fuera de bbox AMM
+29,Dunkin,Dunkin',Dunkin',4.1,533,ChIJWT0mwQNcwokRCCB8iNLVnX4,40.7043747,-73.9287941,dunkindonouts_mty_data_location.csv,POINT (-73.9287941 40.7043747),False,Fuera de bbox AMM
+30,Dunkin,Dunkin',Dunkin',4.0,983,ChIJX9Q2O6GgZYYR86OhaHEnI7k,26.1892318,-98.2052407,dunkindonouts_mty_data_location.csv,POINT (-98.2052407 26.1892318),False,Fuera de bbox AMM
+31,Dunkin,Dunkin',Dunkin',4.0,427,ChIJVbIX_luhxokRU74UTsDOUn8,40.2581583,-75.2650692,dunkindonouts_mty_data_location.csv,POINT (-75.2650692 40.2581583),False,Fuera de bbox AMM
+32,Dunkin,Dunkin',Dunkin',3.2,695,ChIJO7ES1I9JRYYRuAFBzKRd03A,31.0634188,-97.6635653,dunkindonouts_mty_data_location.csv,POINT (-97.6635653 31.0634188),False,Fuera de bbox AMM
+33,Dunkin,Dunkin',Dunkin',4.1,284,ChIJl8bgIIL5t4kR7mDJ2sFEOro,39.0737494,-76.543102,dunkindonouts_mty_data_location.csv,POINT (-76.543102 39.0737494),False,Fuera de bbox AMM
+34,Dunkin,Dunkin',Dunkin',3.5,677,ChIJ10ELoODHxokRyvYZa_9pB9c,39.978689,-75.1589889,dunkindonouts_mty_data_location.csv,POINT (-75.1589889 39.978689),False,Fuera de bbox AMM
+35,Dunkin,Dunkin',Dunkin',3.7,380,ChIJtzzxg-_Lj4ARjY4oZ459QLE,37.3120359,-121.9497188,dunkindonouts_mty_data_location.csv,POINT (-121.9497188 37.3120359),False,Fuera de bbox AMM
+36,Dunkin,Dunkin',Dunkin',3.7,49,ChIJ4f5IzOQD0oURUOsSjJ-sr3U,19.4546883,-99.2192761,dunkindonouts_mty_data_location.csv,POINT (-99.2192761 19.4546883),False,Fuera de bbox AMM
+37,Dunkin,Dunkin',Dunkin',4.0,636,ChIJlzVzAB69XIYROn6FWB6P-tQ,29.6980093,-98.0902445,dunkindonouts_mty_data_location.csv,POINT (-98.0902445 29.6980093),False,Fuera de bbox AMM
+38,Starbucks,Starbucks,Starbucks,4.2,2178,ChIJOcBLXZTrYoYRersK0lZPafc,25.7453695,-100.203521,starbucks_mty_data_location.csv,POINT (-100.203521 25.7453695),True,
+39,Starbucks,Starbucks Paseo de los Leones DT,Starbucks Paseo de los Leones DT,4.4,4132,ChIJ_1C7xNaXYoYRhFRabidDorQ,25.7119488,-100.3777648,starbucks_mty_data_location.csv,POINT (-100.3777648 25.7119488),True,
+40,Starbucks,Starbucks Churubusco,Starbucks Churubusco,4.4,2521,ChIJ7dvcK1GVYoYRnvvJSouakFg,25.6857986,-100.2671916,starbucks_mty_data_location.csv,POINT (-100.2671916 25.6857986),True,
+41,Starbucks,Starbucks Constitución DT,Starbucks Constitucion DT,4.3,3404,ChIJDfZWOQO-YoYRr_QD2zSu7e8,25.6691785,-100.3395735,starbucks_mty_data_location.csv,POINT (-100.3395735 25.6691785),True,
+42,Starbucks,Starbucks Kune DT,Starbucks Kune DT,4.3,740,ChIJ9fYSsTWRYoYRsaYFE6yj7JU,25.7649,-100.4119869,starbucks_mty_data_location.csv,POINT (-100.4119869 25.7649),True,
+43,Starbucks,Starbucks Revolución,Starbucks Revolucion,4.5,1842,ChIJqf7Jg5C_YoYRjGEdJXp6Bzw,25.6426643,-100.2740999,starbucks_mty_data_location.csv,POINT (-100.2740999 25.6426643),True,
+44,Starbucks,Starbucks,Starbucks,4.4,1324,ChIJeT6-H-3rYoYRo2QOqOMF7qw,25.7652817,-100.1915645,starbucks_mty_data_location.csv,POINT (-100.1915645 25.7652817),True,
+45,Starbucks,Starbucks Galerías Monterrey,Starbucks Galerias Monterrey,4.5,2067,ChIJyUEvbAaWYoYR3ADMfxsUGz4,25.6811354,-100.3545263,starbucks_mty_data_location.csv,POINT (-100.3545263 25.6811354),True,
+46,Starbucks,Starbucks Avanta Gardens,Starbucks Avanta Gardens,4.5,772,ChIJ2boOr5y9YoYRrFtCvUR6dxc,25.6575078,-100.3895607,starbucks_mty_data_location.csv,POINT (-100.3895607 25.6575078),True,
+47,Starbucks,Starbucks Pabellón M,Starbucks Pabellon M,4.4,1043,ChIJhVgkcCW-YoYR9Z5ztApRmFs,25.6654761,-100.3171622,starbucks_mty_data_location.csv,POINT (-100.3171622 25.6654761),True,
+48,Starbucks,Starbucks,Starbucks,4.4,1078,ChIJ5QvYSFC-YoYRmdQHc8pN5sA,25.6378131,-100.3139493,starbucks_mty_data_location.csv,POINT (-100.3139493 25.6378131),True,
+49,Starbucks,Starbucks Garza Sada,Starbucks Garza Sada,4.4,1806,ChIJdVetLWa_YoYRwu9UVJUY2FU,25.6446241,-100.2886853,starbucks_mty_data_location.csv,POINT (-100.2886853 25.6446241),True,
+50,Starbucks,Starbucks Nuevo Sur,Starbucks Nuevo Sur,4.5,1092,ChIJrR2rlHe_YoYR6dD6ZCc95lQ,25.6533807,-100.2748188,starbucks_mty_data_location.csv,POINT (-100.2748188 25.6533807),True,
+51,Starbucks,Starbucks Valle,Starbucks Valle,4.5,1028,ChIJSex3Z--9YoYRVwxdrNnsQtY,25.6553175,-100.3619094,starbucks_mty_data_location.csv,POINT (-100.3619094 25.6553175),True,
+52,Starbucks,Starbucks Lindavista Mty DT,Starbucks Lindavista Mty DT,4.4,1357,ChIJfd05G-XrYoYRoL-wQveKdo4,25.693504,-100.2420983,starbucks_mty_data_location.csv,POINT (-100.2420983 25.693504),True,
+53,Starbucks,Starbucks Anáhuac MTY DT,Starbucks Anahuac MTY DT,4.3,4350,ChIJyQtSHeuVYoYR-bYoJPNNl5A,25.7380167,-100.3029451,starbucks_mty_data_location.csv,POINT (-100.3029451 25.7380167),True,
+54,Starbucks,Starbucks Garza Sada II MTY,Starbucks Garza Sada II MTY,4.5,1789,ChIJQT34_K6_YoYRJN00zQSxQfs,25.654396,-100.2938872,starbucks_mty_data_location.csv,POINT (-100.2938872 25.654396),True,
+55,Starbucks,Starbucks Gómez Morín DT,Starbucks Gomez Morin DT,4.4,933,ChIJDRoTat29YoYRlxSR3w3W_Ks,25.64759,-100.3593854,starbucks_mty_data_location.csv,POINT (-100.3593854 25.64759),True,
+56,Starbucks,Starbucks Av. Las Américas DT,Starbucks Av. Las Americas DT,4.5,1561,ChIJJ9V47o6_YoYRZZrJs5mYk20,25.6473151,-100.2675571,starbucks_mty_data_location.csv,POINT (-100.2675571 25.6473151),True,
+57,Starbucks,Starbucks,Starbucks,4.3,528,ChIJfVvrccSXYoYRltRCdzlwnMU,25.6974417,-100.3573895,starbucks_mty_data_location.csv,POINT (-100.3573895 25.6974417),True,
+58,Starbucks,Starbucks Paseo Almenares,Starbucks Paseo Almenares,4.4,1087,ChIJwYtTLaeUYoYR4P4dLp38nRk,25.7690735,-100.2767944,starbucks_mty_data_location.csv,POINT (-100.2767944 25.7690735),True,
+59,Starbucks,Starbucks Omnia DT,Starbucks Omnia DT,4.5,565,ChIJ-wldjmrHYoYRcGKNR9shLr8,25.558115,-100.2340627,starbucks_mty_data_location.csv,POINT (-100.2340627 25.558115),True,
+60,Starbucks,Starbucks Citadel,Starbucks Citadel,4.4,770,ChIJR7IoeFXqYoYRHaBUcnSzsfo,25.7261149,-100.2158156,starbucks_mty_data_location.csv,POINT (-100.2158156 25.7261149),True,
+61,Starbucks,Starbucks Las Puentes DT,Starbucks Las Puentes DT,4.4,833,ChIJ3e_VwNCVYoYR--_swd5BSAg,25.7375,-100.288,starbucks_mty_data_location.csv,POINT (-100.288 25.7375),True,
+62,Starbucks,Starbucks Plaza Cumbres,Starbucks Plaza Cumbres,4.4,2373,ChIJb34PbmeWYoYRcoW11uFjdvM,25.7323808,-100.3963645,starbucks_mty_data_location.csv,POINT (-100.3963645 25.7323808),True,
+63,Starbucks,Starbucks Plaza XO,Starbucks Plaza XO,4.4,905,ChIJx7mGhvK9YoYRMKpVWY2JJqQ,25.6599403,-100.3699347,starbucks_mty_data_location.csv,POINT (-100.3699347 25.6599403),True,
+64,Starbucks,Starbucks Plaza Paraiso,Starbucks Plaza Paraiso,4.5,335,ChIJn4NDzxiVYoYRT5MvlFvBw34,25.7632371,-100.322701,starbucks_mty_data_location.csv,POINT (-100.322701 25.7632371),True,
+65,Starbucks,Starbucks,Starbucks,4.2,681,ChIJaTK4S1frYoYRK3JYc7Vqgw0,25.7721675,-100.1929984,starbucks_mty_data_location.csv,POINT (-100.1929984 25.7721675),True,
+66,Starbucks,Starbucks Paseo La Fe,Starbucks Paseo La Fe,4.4,1387,ChIJgz8G1_vqYoYR3yW7DEQkfrw,25.7198088,-100.2193313,starbucks_mty_data_location.csv,POINT (-100.2193313 25.7198088),True,
+67,Starbucks,Starbucks,Starbucks,2.0,46,ChIJEUhVqSKVYoYR1kmnQgqNxBU,25.678038,-100.313318,starbucks_mty_data_location.csv,POINT (-100.313318 25.678038),True,
+68,Starbucks,Starbucks Colinas De San Jerónimo,Starbucks Colinas De San Jeronimo,4.4,711,ChIJhe0DrUeWYoYRkZcYc_Xw0Wo,25.6967461,-100.3803239,starbucks_mty_data_location.csv,POINT (-100.3803239 25.6967461),True,
+69,Starbucks,Starbucks Plaza Qu DT,Starbucks Plaza Qu DT,4.4,1174,ChIJP2Hh_viWYoYRIqPU8dbD0h0,25.7418519,-100.412905,starbucks_mty_data_location.csv,POINT (-100.412905 25.7418519),True,
+70,Starbucks,Starbucks Plaza Aeropuerto Monterrey,Starbucks Plaza Aeropuerto Monterrey,4.4,1125,ChIJ2ZjEONLuYoYRkbFkDd-l_KE,25.7857913,-100.1347656,starbucks_mty_data_location.csv,POINT (-100.1347656 25.7857913),True,
+71,Starbucks,Starbucks Punto Valle Reserve,Starbucks Punto Valle Reserve,4.5,1197,ChIJW-bEbvG9YoYRvd67aZrEwyI,25.6591111,-100.3548526,starbucks_mty_data_location.csv,POINT (-100.3548526 25.6591111),True,
+72,Starbucks,Starbucks Plaza Fiesta San Agustín DT,Starbucks Plaza Fiesta San Agustin DT,4.5,476,ChIJ4U5SbuG_YoYRlKDoR1yN9uY,25.6484955,-100.3371767,starbucks_mty_data_location.csv,POINT (-100.3371767 25.6484955),True,
+73,Starbucks,Starbucks Paseo San Pedro,Starbucks Paseo San Pedro,4.2,258,ChIJHWfDUua9YoYRF-E_7DFLAt0,25.6505952,-100.3600893,starbucks_mty_data_location.csv,POINT (-100.3600893 25.6505952),True,
+74,Starbucks,Starbucks,Starbucks,4.3,76,ChIJ1Vsq3Gy-YoYRPYT1u3hrnj4,25.6496466,-100.3352013,starbucks_mty_data_location.csv,POINT (-100.3352013 25.6496466),True,
+75,Starbucks,Starbucks Plaza Sienna,Starbucks Plaza Sienna,4.5,732,ChIJTSJhnFq-YoYRi2o65l8wUAc,25.6377357,-100.3162326,starbucks_mty_data_location.csv,POINT (-100.3162326 25.6377357),True,
+76,Starbucks,Starbucks Carretera Reynosa DT,Starbucks Carretera Reynosa DT,3.7,165,ChIJdTGuXwDrYoYRsZ0e6o2sx08,25.6942333,-100.1750176,starbucks_mty_data_location.csv,POINT (-100.1750176 25.6942333),True,
+77,Starbucks,Starbucks Lazaro Cardenas DT,Starbucks Lazaro Cardenas DT,4.2,210,ChIJB3w5bSC_YoYRA5YT_mwlkNQ,25.6252551,-100.2926621,starbucks_mty_data_location.csv,POINT (-100.2926621 25.6252551),True,
+78,Starbucks,Starbucks Park Point,Starbucks Park Point,4.5,373,ChIJYav7tj-XYoYR8hMrlas0caQ,25.7386866,-100.4043872,starbucks_mty_data_location.csv,POINT (-100.4043872 25.7386866),True,
+79,Starbucks,Starbucks Magma Towers,Starbucks Magma Towers,4.5,509,ChIJ12bOtEG-YoYR5rWT_qfMMWs,25.6481021,-100.3245946,starbucks_mty_data_location.csv,POINT (-100.3245946 25.6481021),True,
+80,Starbucks,Starbucks Concordia,Starbucks Concordia,4.2,212,ChIJr7zzWADrYoYRY1GZvPtSG3M,25.7752775,-100.2054563,starbucks_mty_data_location.csv,POINT (-100.2054563 25.7752775),True,
+81,Starbucks,Starbucks CIAP,Starbucks CIAP,4.7,15,ChIJy35N78q_YoYRB2dGnqdZf2Y,25.6523942,-100.2899962,starbucks_mty_data_location.csv,POINT (-100.2899962 25.6523942),True,
+82,Starbucks,Starbucks Paseo San Miguel DT,Starbucks Paseo San Miguel DT,4.2,269,ChIJOzoZjkPpYoYR_-S87bxt_LI,25.7130533,-100.165653,starbucks_mty_data_location.csv,POINT (-100.165653 25.7130533),True,
+83,Starbucks,Starbucks Fashion Drive,Starbucks Fashion Drive,4.2,649,ChIJpWOiPBO-YoYRpE5f4Qnr9uE,25.6511325,-100.3346131,starbucks_mty_data_location.csv,POINT (-100.3346131 25.6511325),True,
+84,Starbucks,Starbucks Ocampo Corner DT,Starbucks Ocampo Corner DT,3.7,104,ChIJMWY7EAC_YoYReAKtuSl7_NU,25.6665513,-100.3207436,starbucks_mty_data_location.csv,POINT (-100.3207436 25.6665513),True,
+85,Starbucks,Starbucks Esfera City Center,Starbucks Esfera City Center,4.3,390,ChIJBXY0NaPHYoYR2lrxQVl-2b8,25.5766191,-100.2436461,starbucks_mty_data_location.csv,POINT (-100.2436461 25.5766191),True,
+86,Starbucks,Starbucks,Starbucks,4.5,1826,ChIJBf7xHZi_YoYRkFUidyUktUg,25.6670656,-100.3120838,starbucks_mty_data_location.csv,POINT (-100.3120838 25.6670656),True,
+87,Starbucks,Starbucks Morelos Centro Mty,Starbucks Morelos Centro Mty,4.0,154,ChIJbynYrKS_YoYR35esEanp9I0,25.6671,-100.31194,starbucks_mty_data_location.csv,POINT (-100.31194 25.6671),True,
+88,Starbucks,Starbucks Molinete,Starbucks Molinete,3.6,41,ChIJ2zujeQDDYoYR8-SSqCmImoU,25.6619691,-100.1503386,starbucks_mty_data_location.csv,POINT (-100.1503386 25.6619691),True,
+89,Starbucks,Starbucks Plaza Real Monterrey,Starbucks Plaza Real Monterrey,4.4,3121,ChIJcaAzEgeWYoYRoguFpeNnUhE,25.6786964,-100.351645,starbucks_mty_data_location.csv,POINT (-100.351645 25.6786964),True,
+90,Starbucks,Starbucks Galerias Mty III,Starbucks Galerias Mty III,4.0,104,ChIJF7WqOg2XYoYRegklqAVEXlE,25.6819683,-100.3529647,starbucks_mty_data_location.csv,POINT (-100.3529647 25.6819683),True,
+91,Starbucks,Starbucks Hospital Ángeles Valle Oriente,Starbucks Hospital Angeles Valle Oriente,3.7,14,ChIJ6ZTv_vS_YoYRB7Z__FE9f3o,25.64525,-100.32038,starbucks_mty_data_location.csv,POINT (-100.32038 25.64525),True,
+92,Starbucks,Starbucks Metropolitan Center,Starbucks Metropolitan Center,4.4,479,ChIJh7RfURO-YoYRwIGtTKOqhG8,25.6501858,-100.3333879,starbucks_mty_data_location.csv,POINT (-100.3333879 25.6501858),True,
+93,Starbucks,Starbucks Galerías Valle Oriente Expansión,Starbucks Galerias Valle Oriente Expansion,4.6,135,ChIJUyr3eUq_YoYRsLOScuQA5g8,25.6372506,-100.3147527,starbucks_mty_data_location.csv,POINT (-100.3147527 25.6372506),True,
+94,Starbucks,Starbucks Galerías Valle Ote MTY,Starbucks Galerias Valle Ote MTY,4.1,7,ChIJJwC6r52_YoYRJkTnhQa1zTs,25.63822,-100.31499,starbucks_mty_data_location.csv,POINT (-100.31499 25.63822),True,
+95,Starbucks,Starbucks Miguel Aleman Aeropuerto,Starbucks Miguel Aleman Aeropuerto,4.6,22,ChIJFwGxMADvYoYREfzI_TXj0hY,25.7890752,-100.1469821,starbucks_mty_data_location.csv,POINT (-100.1469821 25.7890752),True,
+96,Starbucks,Starbucks Library ITESM MTY II,Starbucks Library ITESM MTY II,3.9,9,ChIJg8gnIGW_YoYRNcUtPX0UYWI,25.6501564,-100.2896525,starbucks_mty_data_location.csv,POINT (-100.2896525 25.6501564),True,
+97,Starbucks,Starbucks San Pedro MTY,Starbucks San Pedro MTY,3.2,6,ChIJB_KxX8K9YoYR00n9XJlTAOQ,25.65244,-100.35877,starbucks_mty_data_location.csv,POINT (-100.35877 25.65244),True,
+98,Tim Hortons,Tim Hortons Mol Concordia,Tim Hortons Mol Concordia,4.4,2223,ChIJHa4RRwHtYoYRVpkAMMLc9i4,25.7843081,-100.225882,timhortons_mty_data_location.csv,POINT (-100.225882 25.7843081),True,
+99,Tim Hortons,Tim Hortons Av. México,Tim Hortons Av. Mexico,4.4,1863,ChIJ0ae2xDXBYoYRAbS0F_t1JPQ,25.6541469,-100.1838731,timhortons_mty_data_location.csv,POINT (-100.1838731 25.6541469),True,
+100,Tim Hortons,Tim Hortons Chapultepec,Tim Hortons Chapultepec,4.5,1891,ChIJxZ_Yoy2_YoYRNmQlodMSbKs,25.6675643,-100.2836608,timhortons_mty_data_location.csv,POINT (-100.2836608 25.6675643),True,
+101,Tim Hortons,Tim Hortons Top Obispado,Tim Hortons Top Obispado,4.3,1070,ChIJdWKxI2G_YoYR_a0VFXsGiOM,25.6720022,-100.3468036,timhortons_mty_data_location.csv,POINT (-100.3468036 25.6720022),True,
+102,Tim Hortons,Tim Hortons Garza Sada,Tim Hortons Garza Sada,4.5,1598,ChIJNYQpHrW_YoYRd-WQlky1lLU,25.6314662,-100.2793507,timhortons_mty_data_location.csv,POINT (-100.2793507 25.6314662),True,
+103,Tim Hortons,Tim Hortons Arboleda,Tim Hortons Arboleda,4.5,1100,ChIJ3zjhXue9YoYRQ1St251fGzo,25.6487559,-100.3564747,timhortons_mty_data_location.csv,POINT (-100.3564747 25.6487559),True,
+104,Tim Hortons,Tim Hortons Las Puentes,Tim Hortons Las Puentes,4.4,2140,ChIJqRnfVjCVYoYRzAmfzB8p198,25.7431383,-100.285592,timhortons_mty_data_location.csv,POINT (-100.285592 25.7431383),True,
+105,Tim Hortons,Tim Hortons Vía Puerta de Hierro,Tim Hortons Via Puerta de Hierro,4.5,1762,ChIJB_SDl0aXYoYRWlrLpfT6GfA,25.7448352,-100.4219233,timhortons_mty_data_location.csv,POINT (-100.4219233 25.7448352),True,
+106,Tim Hortons,Tim Hortons Casa Blanca,Tim Hortons Casa Blanca,4.4,1807,ChIJm9BeDobrYoYRGUUDk6EkeVs,25.7335399,-100.2098696,timhortons_mty_data_location.csv,POINT (-100.2098696 25.7335399),True,
+107,Tim Hortons,Tim Hortons Punto Poniente,Tim Hortons Punto Poniente,4.5,1437,ChIJvZcpHPGXYoYR2r-e07mk32k,25.7223738,-100.3611173,timhortons_mty_data_location.csv,POINT (-100.3611173 25.7223738),True,
+108,Tim Hortons,Tim Hortons Micropolis,Tim Hortons Micropolis,4.5,3065,ChIJd_w24Mq_YoYRJ2HUrjXd5So,25.6340731,-100.2820719,timhortons_mty_data_location.csv,POINT (-100.2820719 25.6340731),True,
+109,Tim Hortons,Tim Hortons Fashion Drive,Tim Hortons Fashion Drive,4.5,1514,ChIJFyPvOxO-YoYRj1Nr5SPkm9Q,25.6513682,-100.334657,timhortons_mty_data_location.csv,POINT (-100.334657 25.6513682),True,
+110,Tim Hortons,Tim Hortons Nuevo Anáhuac,Tim Hortons Nuevo Anahuac,4.3,1929,ChIJFQCmFZOTYoYRDPsrMp5x_Ps,25.7845697,-100.272831,timhortons_mty_data_location.csv,POINT (-100.272831 25.7845697),True,
+111,Tim Hortons,Tim Hortons Miguel de la Madrid Poniente,Tim Hortons Miguel de la Madrid Poniente,4.0,229,ChIJBcXJgBTrYoYRwL-DiPc7eFI,25.6947394,-100.1727115,timhortons_mty_data_location.csv,POINT (-100.1727115 25.6947394),True,
+112,Tim Hortons,Tim Hortons Forum Leones,Tim Hortons Forum Leones,4.2,680,ChIJ2ZWit16XYoYRKyXJ3hufEJk,25.7498758,-100.4288394,timhortons_mty_data_location.csv,POINT (-100.4288394 25.7498758),True,
+113,Tim Hortons,Tim Hortons Animol,Tim Hortons Animol,4.5,1929,ChIJk-67hX2TYoYRWW4yueKi1R0,25.7731178,-100.3166389,timhortons_mty_data_location.csv,POINT (-100.3166389 25.7731178),True,
+114,Tim Hortons,Tim Hortons Nogalar,Tim Hortons Nogalar,4.2,751,ChIJU-0ls9a_YoYRZnVkswGq6yg,25.7257025,-100.297201,timhortons_mty_data_location.csv,POINT (-100.297201 25.7257025),True,
+115,Tim Hortons,Tim Hortons Altea Pletórico,Tim Hortons Altea Pletorico,4.4,824,ChIJj9gtOLvBYoYRgKAeCoHTf6A,25.5898476,-100.2591559,timhortons_mty_data_location.csv,POINT (-100.2591559 25.5898476),True,
+116,Tim Hortons,Tim Hortons La Fe,Tim Hortons La Fe,4.5,2140,ChIJmQl6dxXrYoYR3WOoibLifO8,25.724244,-100.2161698,timhortons_mty_data_location.csv,POINT (-100.2161698 25.724244),True,
+117,Tim Hortons,Tim Hortons,Tim Hortons,4.4,541,ChIJEb4yD_K_YoYRPmpWg-SQTK0,25.6536366,-100.274273,timhortons_mty_data_location.csv,POINT (-100.274273 25.6536366),True,
+118,Tim Hortons,Tim Hortons Pablo Livas,Tim Hortons Pablo Livas,4.0,230,ChIJ7eJqEq_BYoYRQrtYbPvs3MY,25.6624916,-100.1998172,timhortons_mty_data_location.csv,POINT (-100.1998172 25.6624916),True,
+119,Tim Hortons,Tim Hortons Ayutla,Tim Hortons Ayutla,4.3,395,ChIJFVg56CK_YoYRnL2j1DpFfVk,25.6618748,-100.3063028,timhortons_mty_data_location.csv,POINT (-100.3063028 25.6618748),True,
+120,Tim Hortons,Tim Hortons Office Park,Tim Hortons Office Park,4.4,1622,ChIJPz2MWv_vYoYR4o74X8AqhmM,25.7880404,-100.1475573,timhortons_mty_data_location.csv,POINT (-100.1475573 25.7880404),True,
+121,Tim Hortons,Tim Hortons,Tim Hortons,4.1,199,ChIJGdghIfeVYoYRGkIU7OzHmag,25.7180939,-100.3167193,timhortons_mty_data_location.csv,POINT (-100.3167193 25.7180939),True,
+122,Tim Hortons,Tim Hortons Tec Biblioteca,Tim Hortons Tec Biblioteca,4.2,137,ChIJf2CZJcG_YoYRxzBwHlPlWYo,25.6503107,-100.2898072,timhortons_mty_data_location.csv,POINT (-100.2898072 25.6503107),True,
+123,Tim Hortons,Tim Hortons Altea Huinalá,Tim Hortons Altea Huinala,4.4,1489,ChIJ31l9fCzrYoYRa2H7VheB9t8,25.746559,-100.2017827,timhortons_mty_data_location.csv,POINT (-100.2017827 25.746559),True,
+124,Tim Hortons,Tim Hortons UDEM CCU,Tim Hortons UDEM CCU,4.5,148,ChIJS8o3NFy9YoYRtOvdyksnghk,25.6603444,-100.4202254,timhortons_mty_data_location.csv,POINT (-100.4202254 25.6603444),True,
+125,Tim Hortons,Tim Hortons Santa Rosa,Tim Hortons Santa Rosa,4.5,109,ChIJYaVoYgDtYoYRTKf_llPE4lM,25.8055451,-100.2235257,timhortons_mty_data_location.csv,POINT (-100.2235257 25.8055451),True,
+126,Tim Hortons,Tim Hortons Margain,Tim Hortons Margain,3.8,235,ChIJ5bucp4C9YoYR-XI11y5MpbM,25.6601633,-100.3521191,timhortons_mty_data_location.csv,POINT (-100.3521191 25.6601633),True,
+127,Tim Hortons,Tim Hortons VAO1 (KOI),Tim Hortons VAO1 (KOI),4.1,82,ChIJcwPErv6_YoYRkqrGz8ZIAZU,25.6426508,-100.3215638,timhortons_mty_data_location.csv,POINT (-100.3215638 25.6426508),True,
+128,Tim Hortons,Tim Hortons Los Fresnos,Tim Hortons Los Fresnos,4.4,44,ChIJyb2qagDrYoYRCB6_Sx2IAHQ,25.7723931,-100.2588848,timhortons_mty_data_location.csv,POINT (-100.2588848 25.7723931),True,
+129,Tim Hortons,Tim Hortons Praderas,Tim Hortons Praderas,4.3,50,ChIJP6eMCADDYoYRE72R8ZFCJ88,25.6634885,-100.1617051,timhortons_mty_data_location.csv,POINT (-100.1617051 25.6634885),True,
+130,Tim Hortons,Tim Hortons Miguel de la Madrid,Tim Hortons Miguel de la Madrid,4.2,441,ChIJG67ZG8_rYoYRUO7tFlaqmWw,25.6943252,-100.1755436,timhortons_mty_data_location.csv,POINT (-100.1755436 25.6943252),True,
+131,Tim Hortons,Tim Hortons Arcadia Guadalupe,Tim Hortons Arcadia Guadalupe,4.4,1082,ChIJx7QvAfPBYoYRpud_FrkTrEE,25.6595391,-100.2279828,timhortons_mty_data_location.csv,POINT (-100.2279828 25.6595391),True,
+132,Tim Hortons,Tim Hortons Calzada del Valle,Tim Hortons Calzada del Valle,4.1,531,ChIJ6dHL_t69YoYRZsMSxctBkZ0,25.6611818,-100.3822631,timhortons_mty_data_location.csv,POINT (-100.3822631 25.6611818),True,
+133,Tim Hortons,Tim Hortons UDEM Estoa,Tim Hortons UDEM Estoa,4.6,40,ChIJlQX4kk29YoYR0SfUFoGlgWI,25.664142,-100.4215765,timhortons_mty_data_location.csv,POINT (-100.4215765 25.664142),True,
+134,Tim Hortons,Tim Hortons Las Torres,Tim Hortons Las Torres,4.0,210,ChIJX2R7EC-_YoYRHSNc92_TYA8,25.6159265,-100.2717975,timhortons_mty_data_location.csv,POINT (-100.2717975 25.6159265),True,
+135,Tim Hortons,Tim Hortons Linda Vista,Tim Hortons Linda Vista,4.1,241,ChIJuY52_PPrYoYRupUquyZJefI,25.6927774,-100.2412527,timhortons_mty_data_location.csv,POINT (-100.2412527 25.6927774),True,
+136,Tim Hortons,Tim Hortons Leones,Tim Hortons Leones,4.2,170,ChIJ6wm8bP-XYoYRPcQS6SDGZTM,25.7102555,-100.3759781,timhortons_mty_data_location.csv,POINT (-100.3759781 25.7102555),True,
+137,Tim Hortons,Tim Hortons Pabellón M,Tim Hortons Pabellon M,4.6,183,ChIJLZQdoSO_YoYRpav6JSyWNmw,25.6659943,-100.3161564,timhortons_mty_data_location.csv,POINT (-100.3161564 25.6659943),True,
+138,Tim Hortons,Tim Hortons UANL FARQ,Tim Hortons UANL FARQ,4.6,217,ChIJKUj5JSWVYoYRSB8gywna3To,25.725388,-100.3113162,timhortons_mty_data_location.csv,POINT (-100.3113162 25.725388),True,
+139,Tim Hortons,Tim Hortons,Tim Hortons,4.8,4,ChIJwdRWaADDYoYRcZtuD3gzmig,25.62243,-100.1528925,timhortons_mty_data_location.csv,POINT (-100.1528925 25.62243),True,
+140,Tim Hortons,Tim Hortons Central,Tim Hortons Central,4.0,161,ChIJQ_3bekmVYoYRDnA_Qv2A_Bo,25.6869904,-100.3201823,timhortons_mty_data_location.csv,POINT (-100.3201823 25.6869904),True,
+141,Tim Hortons,Tim Hortons Paseo La Fe,Tim Hortons Paseo La Fe,4.7,132,ChIJizqnU9_rYoYRKIx0BRKaPGQ,25.7201851,-100.2190116,timhortons_mty_data_location.csv,POINT (-100.2190116 25.7201851),True,
+142,Tim Hortons,Tim Hortons Las Hadas,Tim Hortons Las Hadas,4.0,203,ChIJt6S9RgCTYoYReR9v5vTLfF4,25.7830033,-100.2927675,timhortons_mty_data_location.csv,POINT (-100.2927675 25.7830033),True,
+143,Tim Hortons,Tim Hortons Constitución,Tim Hortons Constitucion,4.3,564,ChIJLe6OFyGVYoYRAZeuK4qaCjA,25.6827038,-100.2669563,timhortons_mty_data_location.csv,POINT (-100.2669563 25.6827038),True,
+144,Tim Hortons,Tim Hortons Rinconada,Tim Hortons Rinconada,3.8,340,ChIJu71xcQDtYoYRUZPdRctyjJ4,25.7925879,-100.1972584,timhortons_mty_data_location.csv,POINT (-100.1972584 25.7925879),True,
+145,Tim Hortons,Tim Hortons Acueducto,Tim Hortons Acueducto,4.1,268,ChIJB-L6bNyTYoYRyZnnTFNG1c4,25.7895709,-100.334384,timhortons_mty_data_location.csv,POINT (-100.334384 25.7895709),True,
+146,Tim Hortons,Tim Hortons Mx,Tim Hortons Mx,3.8,51,ChIJuzMKCzm_YoYRa7PBDpurJx0,25.6658035,-100.3170127,timhortons_mty_data_location.csv,POINT (-100.3170127 25.6658035),True,
+147,Tim Hortons,Tim Hortons UANL FIC,Tim Hortons UANL FIC,4.5,194,ChIJWUvLiB2VYoYR5TWixNMMa4w,25.72485,-100.3147596,timhortons_mty_data_location.csv,POINT (-100.3147596 25.72485),True,
+148,Tim Hortons,Tim Hortons San Jerónimo,Tim Hortons San Jeronimo,4.5,1027,ChIJDSOxYP-XYoYRDtsn3JBPwII,25.6939029,-100.3781374,timhortons_mty_data_location.csv,POINT (-100.3781374 25.6939029),True,
+149,Tim Hortons,Tim Hortons Colón,Tim Hortons Colon,4.5,1703,ChIJKYZsKa-VYoYRldbMm8-FuVY,25.6862567,-100.3165118,timhortons_mty_data_location.csv,POINT (-100.3165118 25.6862567),True,
+150,Tim Hortons,Tim Hortons Diego Díaz de Berlanga,Tim Hortons Diego Diaz de Berlanga,4.8,421,ChIJ9QJy567rYoYRKTzsqJIKjO8,25.7534932,-100.2514092,timhortons_mty_data_location.csv,POINT (-100.2514092 25.7534932),True,
+151,Tim Hortons,Tim Hortons TecMilenio Las Torres,Tim Hortons TecMilenio Las Torres,4.6,33,ChIJNVDcvOy_YoYRK8y2y2ZPuWA,25.6282931,-100.3032231,timhortons_mty_data_location.csv,POINT (-100.3032231 25.6282931),True,
+152,Tim Hortons,Tim Hortons Venustiano Sur,Tim Hortons Venustiano Sur,4.2,492,ChIJ4cji1C-_YoYREu-wW8omS-Q,25.6730128,-100.3331494,timhortons_mty_data_location.csv,POINT (-100.3331494 25.6730128),True,
+153,Tim Hortons,Tim Hortons Tec CIAP,Tim Hortons Tec CIAP,4.9,27,ChIJiTzO6Ly_YoYRnNVLN-vU51A,25.6528189,-100.289842,timhortons_mty_data_location.csv,POINT (-100.289842 25.6528189),True,
+154,Tim Hortons,Tim Hortons Estadio BBVA,Tim Hortons Estadio BBVA,4.3,4,ChIJlbOZFADBYoYRCjqTRTy-jCI,25.6692094,-100.2452147,timhortons_mty_data_location.csv,POINT (-100.2452147 25.6692094),True,
+155,Tim Hortons,Tim Hortons Paricutín,Tim Hortons Paricutin,3.0,2,ChIJkQQybHm_YoYRxtADMYqZHhc,25.6577566,-100.3003418,timhortons_mty_data_location.csv,POINT (-100.3003418 25.6577566),True,
+156,Tim Hortons,Tim Hortons cafe & bake shop 24 horas,Tim Hortons cafe & bake shop 24 horas,3.5,12,ChIJC73E7-q_YoYR09A7NQzx9fU,25.6163004,-100.2719263,timhortons_mty_data_location.csv,POINT (-100.2719263 25.6163004),True,
+157,Tim Hortons,Tim Hortons,Tim Hortons,4.3,78,ChIJb0_YcQDDYoYRRlnYGIFpGOs,25.6549951,-100.1210565,timhortons_mty_data_location.csv,POINT (-100.1210565 25.6549951),True,

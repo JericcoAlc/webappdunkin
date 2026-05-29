@@ -1,11 +1,6 @@
-streamlit==1.39.0
-python-dotenv==1.0.1
-openai>=1.0.0
-statsmodels
 streamlit
 pandas
 pydeck
-google-places
 osmnx
 geopy
 scikit-learn
